@@ -1,0 +1,15 @@
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp\task3\bin\Debug\net6.0\task3.exe
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp\task3\bin\Debug\net6.0\task3.deps.json
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp\task3\bin\Debug\net6.0\task3.dll
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp\task3\bin\Debug\net6.0\task3.pdb
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp\task3\obj\Debug\net6.0\task3.dll
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp\task3\obj\Debug\net6.0\refint\task3.dll
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp\task3\obj\Debug\net6.0\task3.pdb
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp\task3\obj\Debug\net6.0\ref\task3.dll
