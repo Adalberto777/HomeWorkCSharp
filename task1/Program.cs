@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Enter a first integer");
+﻿Console.WriteLine("Программа для сравнения двух чисел");
+
+Console.WriteLine("Enter a first integer");
 int number1 = int.Parse(Console.ReadLine());
 Console.WriteLine("Enter a second integer");
 int number2 = int.Parse(Console.ReadLine());
