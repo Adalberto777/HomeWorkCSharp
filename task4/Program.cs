@@ -3,7 +3,8 @@
 Console.WriteLine("Enter a positive integer");
 int number = int.Parse(Console.ReadLine());
 int count = 2;
-if(number < 1) Console.Write($" {number} - не положительное целое число");
+
+if(number < 2) Console.Write($" {number} - не содержит положительных целых чисел");
 
 while(count <= number)
 {
